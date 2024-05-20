@@ -1,9 +1,9 @@
 {
-    "clientID":"BOTclientID",
-    "clientSecret":"BOTclientSecret",
-    "callbackURL":"BOTcallbackURL",
-    "Admin":["userAdminID"],
-    "token":"BOTtoken",
-    "prefix":"-",
+    "clientID":"1239091561879437333",
+    "clientSecret":"xEn7wkydpT6OPPNp867ci-ngimC8UHYU",
+    "callbackURL":"https://discord.com/oauth2/authorize?client_id=1239091561879437333",
+    "Admin":["1228736780795117579"],
+    "token":"MTIzOTA5MTU2MTg3OTQzNzMzMw.G4C_3e.hHubcTzB_EmjxxVrVUtmF3es5ZLJmKmIqa-T8c",
+    "prefix":"!",
     "port":"3000"
 }
